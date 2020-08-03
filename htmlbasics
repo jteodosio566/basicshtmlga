@@ -1,0 +1,40 @@
+//https://dash.generalassemb.ly/jteodosio566/build-your-own-personal-website
+<!DOCTYPE html>
+<head>
+  <title>JOSE M TEODOSIO-MEZA</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://i.imgur.com/rZlNPwd.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: times;
+    }
+    p {
+      font-size: 22px;
+    }
+    input{
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+      font-family: times;
+    }
+    input[type="submit"]{
+      background: black;
+      color: white;
+      font-family: times;
+    }
+    h1
+    {
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <h1>JOSE M TEODOSIO MEZA</h1>
+  <a href="https://imgur.com/8pxjoda"><img src="https://i.imgur.com/8pxjodab.jpg" title="source: imgur.com" /></a>
+  <p>Hi! I'm JOSE M TEODOSIO-MEZA, a NYC-based programmer. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
